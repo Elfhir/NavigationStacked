@@ -16,5 +16,12 @@ positionné en haut de *l'écran*, quelque soit le niveau de scroll vertical.
   - Utiliser du JS
   - Utiliser du CSS
   
-###) Solution
- Une solution (parmi d'autres) [ici](https://github.com/Elfhir/NavigationStacked/)
+### Indices
+ Des indices :
+ - [indice 1](https://github.com/Elfhir/NavigationStacked/INDICE1.md)
+ - [indice 2](https://github.com/Elfhir/NavigationStacked/INDICE2.md)  
+ - [indice 3](https://github.com/Elfhir/NavigationStacked/INDICE3.md)  
+ - [indice 4](https://github.com/Elfhir/NavigationStacked/INDICE4.md)  
+  
+### Solution
+ Une solution (parmi d'autres) [ici](https://github.com/Elfhir/NavigationStacked/SOLUTION.md)
