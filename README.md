@@ -1,5 +1,5 @@
 # NavigationStacked
-A navigation exercice
+## A navigation exercice
 
 1) Etat initial
 On a un menu, prenant toute *la largeur* de la page, *en haut* de la page.
